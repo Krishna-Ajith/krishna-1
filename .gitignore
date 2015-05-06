@@ -1,8 +1,8 @@
 # built application files
-*.apk
+*.apkg
 *.ap_
 
-# files for the dex VM
+# files for the dex VMfhd
 *.dex
 
 # Java class files
